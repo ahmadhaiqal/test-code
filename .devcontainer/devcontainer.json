@@ -7,9 +7,5 @@
   "runArgs":[
     "--dns=8.8.8.8",
     "--dns=1.1.1.1",
-    "-v",
-    "/tmp/ssh-agent-proxy:/ssh-agent",
-    "-e",
-    "SSH_AUTH_SOCK=/ssh-agent"
   ]
 }
