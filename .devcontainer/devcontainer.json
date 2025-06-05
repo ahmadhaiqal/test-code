@@ -6,6 +6,6 @@
   "postCreateCommand":"scripts/setup",
   "runArgs":[
     "--dns=8.8.8.8",
-    "--dns=1.1.1.1",
+    "--dns=1.1.1.1"
   ]
 }
